@@ -21,6 +21,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "A safe and secure chatting app to help victims of sexual of physical abuse come together and heal as a community. ",
+    "githubUrl": "https://github.com/anabee/UnWavering"
   }
 }

@@ -39,5 +39,6 @@ const styles = StyleSheet.create({
     padding: 10,
     borderRadius: 25,
     width: "50%",
+    marginLeft: '25%',
   }
 });
